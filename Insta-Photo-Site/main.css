@@ -1,0 +1,57 @@
+h1.jumbo {
+    color: white;
+    font-size: 48px;
+}
+
+h2 {
+    color: darkorange;
+    font-size: 1.5rem;
+}
+
+header {
+    padding: 20px;
+}
+
+header.row = {
+    display: flex;
+}
+
+header p {
+    padding-left: 20px;
+    font-size: 20px;
+    font: roboto;
+}
+
+nav {
+    display: flex;
+}
+
+
+.jumbotron {
+    background-image: url('https://i.ytimg.com/vi/Fl7V5dX5IrM/maxresdefault.jpg');
+    background-size: contain;
+    display: flex;
+    height: 300px;
+}
+
+.rotate90 {
+    transform: rotate(90deg)
+}
+
+.col-sm-6 {
+    text-align: center;
+}
+
+.top_nav {
+    display: inline;
+}
+
+h1.col-sm-4 {
+    color: red;
+}
+
+#showcase h1 {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}

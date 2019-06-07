@@ -1,0 +1,22 @@
+h1.jumbo {
+    text-align: center;
+    font-size: 72px;
+    color: white;
+}
+
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    color: orange
+}
+img {
+    position: center;
+}
+
+.jumbotron {
+    background-image: url('https://i.ytimg.com/vi/Fl7V5dX5IrM/maxresdefault.jpg');
+    background-size: contain;
+    display: flex;
+    height: 300px;
+}

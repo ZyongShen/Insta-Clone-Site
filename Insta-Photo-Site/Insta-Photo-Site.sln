@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{955BD673-6CF9-493A-8054-31B13410DFFB}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		main.css = main.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChinatownDetails", "ChinatownDetails", "{8CF461D9-D3DD-477F-9964-92E8443693D0}"
+	ProjectSection(SolutionItems) = preProject
+		ChinatownDetail.css = ChinatownDetail.css
+		ChinatownDetail.html = ChinatownDetail.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NavBarPages", "NavBarPages", "{3A0C9714-10A0-47B4-9A07-CC37993643CC}"
+	ProjectSection(SolutionItems) = preProject
+		Descriptions.css = Descriptions.css
+		Descriptions.html = Descriptions.html
+		Gallery.css = Gallery.css
+		Gallery.html = Gallery.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DescriptionPages", "DescriptionPages", "{256B8825-36D5-4D0F-A8D6-443DB7E90E51}"
+	ProjectSection(SolutionItems) = preProject
+		DetailStyle.css = DetailStyle.css
+		WhiteBuilding.html = WhiteBuilding.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Red-Brick", "Red-Brick", "{2B7B2F6E-E733-4635-BC96-6C7B6C69086A}"
+	ProjectSection(SolutionItems) = preProject
+		RB.html = RB.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Midtown", "Midtown", "{AB952723-123F-4D1A-B89B-8DFB615E9C53}"
+	ProjectSection(SolutionItems) = preProject
+		Midtown.html = Midtown.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chinatown Park", "Chinatown Park", "{04315C45-ACCB-49B4-906B-8503BB0B782F}"
+	ProjectSection(SolutionItems) = preProject
+		ChinatownP.html = ChinatownP.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chinatown-Inter", "Chinatown-Inter", "{1805EAC1-64B1-4194-B14F-AC1F77C95C65}"
+	ProjectSection(SolutionItems) = preProject
+		CTownInter.html = CTownInter.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Yellow Bus", "Yellow Bus", "{38154BA1-6FE7-49C2-A3B9-D0174DC29C64}"
+	ProjectSection(SolutionItems) = preProject
+		YBus.html = YBus.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tracks", "Tracks", "{83139A42-2822-4695-AA2C-9FC8EF90F651}"
+	ProjectSection(SolutionItems) = preProject
+		SubTracks.html = SubTracks.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Window Shot", "Window Shot", "{95622A6D-5257-4048-B688-FCA9B1051C2F}"
+	ProjectSection(SolutionItems) = preProject
+		CarShot.html = CarShot.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8CF461D9-D3DD-477F-9964-92E8443693D0} = {955BD673-6CF9-493A-8054-31B13410DFFB}
+		{3A0C9714-10A0-47B4-9A07-CC37993643CC} = {955BD673-6CF9-493A-8054-31B13410DFFB}
+		{256B8825-36D5-4D0F-A8D6-443DB7E90E51} = {955BD673-6CF9-493A-8054-31B13410DFFB}
+		{2B7B2F6E-E733-4635-BC96-6C7B6C69086A} = {256B8825-36D5-4D0F-A8D6-443DB7E90E51}
+		{AB952723-123F-4D1A-B89B-8DFB615E9C53} = {256B8825-36D5-4D0F-A8D6-443DB7E90E51}
+		{04315C45-ACCB-49B4-906B-8503BB0B782F} = {256B8825-36D5-4D0F-A8D6-443DB7E90E51}
+		{1805EAC1-64B1-4194-B14F-AC1F77C95C65} = {256B8825-36D5-4D0F-A8D6-443DB7E90E51}
+		{38154BA1-6FE7-49C2-A3B9-D0174DC29C64} = {256B8825-36D5-4D0F-A8D6-443DB7E90E51}
+		{83139A42-2822-4695-AA2C-9FC8EF90F651} = {256B8825-36D5-4D0F-A8D6-443DB7E90E51}
+		{95622A6D-5257-4048-B688-FCA9B1051C2F} = {256B8825-36D5-4D0F-A8D6-443DB7E90E51}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FEB7812-4350-4306-89DC-F9A80587B946}
+	EndGlobalSection
+EndGlobal
